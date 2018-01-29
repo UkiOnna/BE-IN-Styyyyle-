@@ -1,0 +1,15 @@
+c:\users\сикировт\documents\visual studio 2017\Projects\StyleLesson\StyleLesson\bin\Debug\StyleLesson.exe.config
+c:\users\сикировт\documents\visual studio 2017\Projects\StyleLesson\StyleLesson\bin\Debug\StyleLesson.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\StyleLesson\StyleLesson\bin\Debug\StyleLesson.pdb
+c:\users\сикировт\documents\visual studio 2017\Projects\StyleLesson\StyleLesson\obj\Debug\StyleLesson.csprojResolveAssemblyReference.cache
+c:\users\сикировт\documents\visual studio 2017\Projects\StyleLesson\StyleLesson\obj\Debug\MainWindow.g.cs
+c:\users\сикировт\documents\visual studio 2017\Projects\StyleLesson\StyleLesson\obj\Debug\App.g.cs
+c:\users\сикировт\documents\visual studio 2017\Projects\StyleLesson\StyleLesson\obj\Debug\StyleLesson_MarkupCompile.cache
+c:\users\сикировт\documents\visual studio 2017\Projects\StyleLesson\StyleLesson\obj\Debug\StyleLesson_MarkupCompile.lref
+c:\users\сикировт\documents\visual studio 2017\Projects\StyleLesson\StyleLesson\obj\Debug\App.baml
+c:\users\сикировт\documents\visual studio 2017\Projects\StyleLesson\StyleLesson\obj\Debug\MainWindow.baml
+c:\users\сикировт\documents\visual studio 2017\Projects\StyleLesson\StyleLesson\obj\Debug\StyleLesson.g.resources
+c:\users\сикировт\documents\visual studio 2017\Projects\StyleLesson\StyleLesson\obj\Debug\StyleLesson.Properties.Resources.resources
+c:\users\сикировт\documents\visual studio 2017\Projects\StyleLesson\StyleLesson\obj\Debug\StyleLesson.csproj.GenerateResource.Cache
+c:\users\сикировт\documents\visual studio 2017\Projects\StyleLesson\StyleLesson\obj\Debug\StyleLesson.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\StyleLesson\StyleLesson\obj\Debug\StyleLesson.pdb
